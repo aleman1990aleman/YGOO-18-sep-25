@@ -1,4 +1,4 @@
-# Hol# Creando tu cuenta y tu primer repositorio 
+# Creando tu cuenta y tu primer repositorio 
 
 Sigue estos pasos cuidadosamente: 
 
